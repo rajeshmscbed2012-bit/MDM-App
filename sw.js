@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mdm-app-v5.9.1';
+const CACHE_NAME = 'mdm-app-v6.4';
 
 // ஆஃப்லைனில் வேலை செய்ய தேவையான ஃபைல்கள்
 const ASSETS_TO_CACHE = [
