@@ -1,0 +1,18 @@
+{
+  "name": "சத்துணவு பதிவேடு v5.8",
+  "short_name": "MDM App",
+  "description": "புரட்சி தலைவர் MGR சத்துணவு திட்டம் பதிவேடு",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FCE4EC",
+  "theme_color": "#EC407A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135695.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
